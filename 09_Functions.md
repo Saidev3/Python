@@ -102,5 +102,3 @@ print(x) # 20
 - **Return values**: Use `return` to send values back from the function.
 - **Default parameters**: You can set default values for parameters to use when no argument is passed.
 - **Local variables**: Variables inside a function cannot be accessed outside the function.
-
-Let me know if you need more examples or clarification!
