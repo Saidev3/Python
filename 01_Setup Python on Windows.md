@@ -73,4 +73,4 @@ Use pip to install libraries:
 pip install numpy pandas matplotlib
 ```
 
-Now you're ready to code in Python! Let me know if you face any issues.
+Now you're ready to code in Python!
