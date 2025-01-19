@@ -68,7 +68,7 @@ z = 20
 
 # Combining arithmetic and logical operators
 result = (x + y > z) and (z - x < y)
-print(result)  # True
+print(result)  # False
 ```
 
 ---
